@@ -1,7 +1,7 @@
 # Computer-Graphics-COMP-312
 
-This repository contains the project I developed during the academic year **2020–2021** for the course **Computer Graphics**.
-To access the project follow the dropbox url provided and download **Assets** and **Build** folders.
+This repository contains the project I developed during the academic year **2020–2021** for the course **Computer Graphics**.  
+To access the project follow the dropbox url provided in the Kratimenos_Michail_2018030104.pdf file and download **Assets** and **Build** folders.  
 To play the game execute the file: Build/MikeHotelGame.exe
 
 ## Grade
