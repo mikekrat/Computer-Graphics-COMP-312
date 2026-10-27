@@ -1,13 +1,28 @@
-# Computer-Graphics-COMP-312
+# Computer Graphics — COMP-312 (TUC)
 
-This repository contains the project I developed during the academic year **2020–2021** for the course **Computer Graphics**.  
-To access the project follow this [dropbox url](https://www.dropbox.com/scl/fi/yjd5afe5jj0m9ih61khug/Kratimenos_Michail_2018030104.zip?dl=0&e=2&rlkey=refu4kaea8grvx7ikk1g5y08k) and download **Assets** and **Build** folders.  
-To play the game execute the file: **Build/MikeHotelGame.exe**
+A **Hotel Tycoon board game built in Unity**, developed for the Computer Graphics
+course (2020–2021). The project implements the board game's rules, turn flow and
+3D presentation in the Unity engine. **Grade: 8.5 / 10.**
 
-## Grade
+## The game
+A digital version of a Hotel-Tycoon-style board game: players move around a
+board, buy and build hotels, and compete to accumulate assets, with the game
+state, player turns and win conditions handled in-engine.
 
-8.5/10
+## Contents
+- `Kratimenos_Michail_2018030104.pdf` — the project report (design and
+  implementation write-up).
+- `Project_Graphics_2021rev.pdf` — the assignment brief.
+- **Assets and build** are hosted on Dropbox (too large for the repo) — see the
+  link in the repo description / below.
 
-## Notes
-- This project focuses on implementing and applying the Hotel Tycoon Board Game in **Unity** game engine.  
-- The code reflects my work and understanding during that period of study.
+## Run
+Download the **Assets** and **Build** folders from the Dropbox link, then run:
+```
+Build/MikeHotelGame.exe
+```
+(Windows build.) To open the project in Unity instead, import the `Assets`
+folder into a matching Unity version.
+
+## Tech
+Unity · C# · 3D rendering · game logic & state management
